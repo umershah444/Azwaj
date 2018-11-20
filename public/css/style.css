@@ -1,0 +1,46 @@
+span.grid-report-item.blue {
+    background-color: #00c0ef;
+    color: #fff;
+}
+span.grid-report-item {
+    padding: .2em .6em .3em;
+    border-radius: .25em;
+    color: #2e2e2e;
+}
+span.grid-report-item.orange {
+    background-color: #FFA500;
+    color: #fff;
+}
+
+span.grid-report-item {
+    padding: .2em .6em .3em;
+    border-radius: .25em;
+    color: #2e2e2e;
+}
+span.grid-report-item.green {
+    background-color: #00a65a;
+    color: #fff;
+}
+
+span.grid-report-item {
+    padding: .2em .6em .3em;
+    border-radius: .25em;
+    color: #2e2e2e;
+}
+span.grid-report-item.red {
+    background-color: #dd4b39;
+    color: #fff;
+}
+
+span.grid-report-item {
+    padding: .2em .6em .3em;
+    border-radius: .25em;
+    color: #2e2e2e;
+}
+
+
+.form-horizontal .label-wrapper {
+    display: table;
+    float: right;
+    min-height: 28px;
+}
